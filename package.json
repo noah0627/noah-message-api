@@ -1,0 +1,10 @@
+{
+  "name": "noah-message-system",
+  "version": "1.0.0",
+  "description": "Noah个人站留言系统",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
